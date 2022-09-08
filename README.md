@@ -31,7 +31,7 @@
   <a href="https://t.me/usebottles">Telegram group</a> · 
   <a href="https://usebottles.com/funding">Funding</a>
   · 
-  <a href="https://github.com/bottlesdevs/Bottles/blob/master/README.tr.md">Turkish README</a> 
+  <a href="https://github.com/06ergin06/Bottles/blob/master/README.tr.md">Turkish README</a> 
 </div>
 
 <br/>

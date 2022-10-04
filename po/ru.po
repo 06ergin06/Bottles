@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: bottles\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-07 23:12+0200\n"
-"PO-Revision-Date: 2022-08-09 15:13+0000\n"
-"Last-Translator: Artem <github@knebergish.fastmail.com>\n"
+"PO-Revision-Date: 2022-10-03 09:21+0000\n"
+"Last-Translator: lenemter <lenemter@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/bottles/bottles/"
 "ru/>\n"
 "Language: ru\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.14-dev\n"
+"X-Generator: Weblate 4.14.1\n"
 
 #: bottles/backend/managers/backup.py:50 bottles/backend/managers/backup.py:112
 msgid "No path specified"
@@ -404,7 +404,7 @@ msgstr "2017-2022 © разработчики Bottles"
 
 #: bottles/frontend/ui/about.ui:9
 msgid "Easily manage wineprefix using environments"
-msgstr "Простое управление префиксами wine с помощью сред исполнения"
+msgstr "Простое управление префиксами Wine с помощью сред исполнения"
 
 #: bottles/frontend/ui/component-entry.ui:6
 msgid "Component version"
@@ -653,7 +653,7 @@ msgstr "Дезинсталлятор"
 
 #: bottles/frontend/ui/details-bottle.ui:326
 msgid "Uninstall programs using Wine uninstaller."
-msgstr "Удаление программ с помощью дезинсталлятора Wine."
+msgstr "Удаление программ с помощью деинсталлятора Wine."
 
 #: bottles/frontend/ui/details-bottle.ui:337
 msgid "Control Panel"
@@ -1782,7 +1782,7 @@ msgstr "Эффекты"
 
 #: bottles/frontend/ui/dialog-vkbasalt.ui:71
 msgid "Contrast Adaptive Sharpening"
-msgstr ""
+msgstr "Контрастная адаптивная резкость"
 
 #: bottles/frontend/ui/dialog-vkbasalt.ui:74
 #: bottles/frontend/ui/dialog-vkbasalt.ui:110
@@ -1807,7 +1807,7 @@ msgstr "Показать информацию"
 #. Luma is not translatable
 #: bottles/frontend/ui/dialog-vkbasalt.ui:107
 msgid "Denoised Luma Sharpening"
-msgstr ""
+msgstr "Резкость Luma с шумоподавлением"
 
 #: bottles/frontend/ui/dialog-vkbasalt.ui:139
 msgid "Denoise"
@@ -1815,7 +1815,7 @@ msgstr "Шумоподавление"
 
 #: bottles/frontend/ui/dialog-vkbasalt.ui:171
 msgid "Fast Approximate Anti-Aliasing"
-msgstr ""
+msgstr "Быстрое приблизительное сглаживание"
 
 #: bottles/frontend/ui/dialog-vkbasalt.ui:174
 msgid "Subpixel Quality"
@@ -1823,15 +1823,15 @@ msgstr "Субпиксельное качество"
 
 #: bottles/frontend/ui/dialog-vkbasalt.ui:203
 msgid "Quality Edge Threshold"
-msgstr ""
+msgstr "Порог качества"
 
 #: bottles/frontend/ui/dialog-vkbasalt.ui:232
 msgid "Quality Edge Threshold Minimum"
-msgstr ""
+msgstr "Минимум порога качества"
 
 #: bottles/frontend/ui/dialog-vkbasalt.ui:264
 msgid "Subpixel Morphological Anti-Aliasing"
-msgstr ""
+msgstr "Субпиксельное морфологическое сглаживание"
 
 #: bottles/frontend/ui/dialog-vkbasalt.ui:267
 msgid "Edge Detection"
@@ -1839,7 +1839,7 @@ msgstr "Обнаружение краёв"
 
 #: bottles/frontend/ui/dialog-vkbasalt.ui:283
 msgid "Luma"
-msgstr ""
+msgstr "Luma"
 
 #: bottles/frontend/ui/dialog-vkbasalt.ui:290
 msgid "Color"
@@ -1863,7 +1863,7 @@ msgstr "Максимальное скругление углов"
 
 #: bottles/frontend/ui/dialog-vkbasalt.ui:419
 msgid "Color Lookup Table"
-msgstr ""
+msgstr "Таблица поиска цветов"
 
 #: bottles/frontend/ui/dialog-vkbasalt.ui:437
 msgid "Reset to Default"
@@ -2018,7 +2018,7 @@ msgstr "Менеджер"
 
 #: bottles/frontend/ui/importer-entry.ui:39
 msgid "This wineprefix was already imported in Bottles."
-msgstr "Этот префикс wine уже импортирован в Bottles."
+msgstr "Этот префикс Wine уже импортирован в Bottles."
 
 #: bottles/frontend/ui/importer.ui:24
 msgid "Import Bottles backup"

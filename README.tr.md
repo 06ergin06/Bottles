@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/bottlesdevs/Bottles/master/data/icons/hicolor/scalable/apps/com.usebottles.bottles.svg" width="64">
   <h1 align="center">Bottles</h1>
+  <h1 align="center">İptal edildiği için güncel değildir orijinal depodan okumanızı öneririm.</h1>
   <p align="center">Ortamları kullanarak kolayca wineprefix'i yönetin.</p>
 </div>
 
